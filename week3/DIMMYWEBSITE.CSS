@@ -1,0 +1,68 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    
+}
+
+body {
+    background-color: bisque;
+}
+
+.red {
+
+    background-color: rgb(129, 39, 39);
+    color: rgb(250, 251, 252);
+    padding: 8px 0px;
+    box-shadow: 0px 0px 5px;
+    height: 90px;
+ 
+    
+
+}
+
+a {
+    color: aliceblue;
+    padding: 5px;
+    
+    
+
+}
+
+.ryd{
+    text-align: right;
+    padding-right: 20px;
+    
+    
+}
+
+h1{
+    justify-content: baseline;
+    align-items: baseline;
+    padding-top: 20px;
+    padding-left: 12px;
+}
+
+#about{
+    padding: 15px;
+    color: rgb(83, 82, 71);
+}
+
+img{
+    
+    width: 420px;
+    height: 300px;
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+.wanted{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    
+}
+
+
+
+
